@@ -1,0 +1,21 @@
+# Python
+*.py[co]
+
+# Virtualenv
+.Python
+bin/
+include/
+lib/
+selenium/
+share/
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+# Mac OS X
+.DS_Store
+
+# Logs
+*.log
+/local
+.~*

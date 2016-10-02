@@ -1,3 +1,2 @@
-inflect==0.2.5
 requests==2.11.1
 git+https://github.com/savoirfairelinux/num2words.git

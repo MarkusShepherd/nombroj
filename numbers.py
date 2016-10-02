@@ -52,7 +52,10 @@ def main():
 
     if args.detect or args.detect_short:
         languages = {key: LANGUAGE_DESC.get(key, str(value)) for key, value in CONVERTER_CLASSES.items()}
-        languages.update({language['language']: language['name'] for language in detect_languages('en')})
+        try:
+            languages.update({language['language']: language['name'] for language in detect_languages('en')})
+        except:
+            pass
         if args.detect_short:
             for language in sorted(languages.keys()):
                 print(language)

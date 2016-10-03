@@ -45,6 +45,5 @@ def eo(n):
 	return r
 
 if __name__ == '__main__':
-	for n in sys.argv[1:]:
-		n = int(n)
-		print('{:10d}: "{}"'.format(n, eo(n)))
+	for n in range(int(sys.argv[1]) + 1):
+		print(eo(n))

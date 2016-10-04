@@ -2,6 +2,7 @@
 
 from __future__ import division, print_function, unicode_literals
 
+import math
 import sys
 
 numbers = {
@@ -27,9 +28,23 @@ for i, fragment in enumerate(fragments):
     exp += 3
     numbers[10**exp] = fragment + 'iardo'
 
-def eo(n):
+def eo(n, max_decimals=10):
     if n < 0:
         return 'minus ' + eo(-n)
+
+    try:
+        is_float = not n.is_integer()
+    except Exception:
+        is_float = False
+
+    if is_float:
+        integer, fraction = str(n).split('.')
+        result = eo(int(integer)) + ' koma'
+        for i, digit in enumerate(fraction[:max_decimals]):
+            result += ' ' + numbers[int(digit)]
+            if all(d == '0' for d in fraction[i+1:max_decimals]):
+                break
+        return result
 
     result = numbers.get(n)
     if result:
@@ -64,5 +79,9 @@ def eo(n):
 
 if __name__ == '__main__':
     for arg in sys.argv[1:]:
-        n = int(arg)
-        print('{:13d} {}'.format(n, eo(n)))
+        if '.' in arg:
+            n = float(arg)
+            print('{:13f} {}'.format(n, eo(n)))
+        else:
+            n = int(arg)
+            print('{:13d} {}'.format(n, eo(n)))

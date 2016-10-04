@@ -1,49 +1,68 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import print_function, unicode_literals
+from __future__ import division, print_function, unicode_literals
 
-import itertools
 import sys
 
-units = ['nulo', 'unu', 'du', 'tri', 'kvar', 'kvin', 'ses', 'sep', 'ok', 'naŭ', 'dek', 'cent']
+numbers = {
+    0: 'nulo',
+    1: 'unu',
+    2 :'du',
+    3 :'tri',
+    4 :'kvar',
+    5 :'kvin',
+    6 :'ses',
+    7 :'sep',
+    8 :'ok',
+    9 :'naŭ',
+    10 :'dek',
+    100 :'cent',
+    1000: 'mil',
+}
+
 fragments = ['mil', 'bil', 'tril', 'kvadril', 'kvintil', 'sekstil', 'septil', 'oktil', 'nonil', 'dekil']
-highs = ['mil'] + list(itertools.chain.from_iterable((v + 'iono', v + 'iardo') for v in fragments))
+for i, fragment in enumerate(fragments):
+    exp = (i + 1) * 6
+    numbers[10**exp] = fragment + 'iono'
+    exp += 3
+    numbers[10**exp] = fragment + 'iardo'
 
 def eo(n):
-	if n < 0:
-		return 'minus ' + eo(-n)
+    if n < 0:
+        return 'minus ' + eo(-n)
 
-	if n <= 10:
-		return units[n]
+    result = numbers.get(n)
+    if result:
+        return result
 
-	if n < 100:
-		ten, unit = divmod(n, 10)
-		r = units[10]
-		if unit:
-			r += ' ' + units[unit]
-		return r if ten == 1 else units[ten] + r
+    for pos in (100, 1000):
+        if n < pos:
+            high, low = divmod(n, pos // 10)
+            result = numbers[pos // 10]
+            if low:
+                result += ' ' + eo(low)
+            if high > 1:
+                result = numbers[high] + result
+            return result
 
-	if n < 1000:
-		hun, ten = divmod(n, 100)
-		r = units[11]
-		if ten:
-			r += ' ' + eo(ten)
-		return r if hun == 1 else units[hun] + r
+    exp = 3
+    high, low = divmod(n, 1000)
+    result = eo(low) if low else ''
 
-	exp = 0
-	high, low = divmod(n, 1000)
-	r = eo(low) if low else ''
+    while high:
+        high, low = divmod(high, 1000)
+        if low:
+            part = numbers[10**exp]
+            if low > 1:
+                part = eo(low) + ' ' + part
+                if part.endswith('o'):
+                    part += 'j'
+            result = part + ' ' + result if result else part
+        exp += 3
 
-	while high:
-		high, low = divmod(high, 1000)
-		if low:
-			r = highs[exp] + ('j' if exp and low > 1 else '') + ((' ' + r) if r else '')
-			if low > 1:
-				r = eo(low) + ' ' + r
-		exp += 1
-
-	return r
+    return result
 
 if __name__ == '__main__':
-	for n in range(int(sys.argv[1]) + 1):
-		print(eo(n))
+    for arg in sys.argv[1:]:
+        n = int(arg)
+        print('{:13d} {}'.format(n, eo(n)))

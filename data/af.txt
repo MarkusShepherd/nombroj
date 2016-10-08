@@ -1,0 +1,101 @@
+nul
+een
+twee
+drie
+vier
+vyf
+ses
+sewe
+agt
+nege
+tien
+elf
+twaalf
+dertien
+veertien
+vyftien
+sestien
+sewentien
+agtien
+negentien
+twintig
+een en twintig
+twee en twintig
+drie en twintig
+vier en twintig
+vyf en twintig
+ses-en-twintig
+sewe en twintig
+agt en twintig
+nege en twintig
+dertig
+Dertig-een
+twee en dertig
+drie en dertig
+vier en dertig
+vyf-en-dertig
+ses en dertig
+sewe en dertig
+agt en dertig
+nege en dertig
+veertig
+een en veertig
+twee en veertig
+drie-en-veertig
+vier en veertig
+vyf en veertig
+ses en veertig
+sewe en veertig
+agt en veertig
+nege en veertig
+vyftig
+een en vyftig
+twee en vyftig
+drie en vyftig
+vier en vyftig
+vyf en vyftig
+ses en vyftig
+Sewe en vyftig
+Agt en vyftig
+nege en vyftig
+sestig
+een en sestig
+twee en sestig
+drie en sestig
+vier en sestig
+vyf en sestig
+ses-en-sestig
+ses en sewentig
+agt en sestig
+nege en sestig
+sewentig
+een en sewentig
+twee en sewentig
+drie en sewentig
+vier-en-sewentig
+vyf en sewentig
+ses en sewentig
+sewe en sewentig
+agt en sewentig
+nege en sewentig
+tagtig
+een en tagtig
+twee en tagtig
+drie en tagtig
+vier en tagtig
+vyf en tagtig
+ses en tagtig
+sewe en tagtig
+agt en tagtig
+nege en tagtig
+negentig
+-en-negentig
+Twee en negentig
+drie-en-negentig
+94
+vyf en negentig
+ses en negentig
+sewe en negentig
+agt en negentig
+nege-en-negentig
+een honderd

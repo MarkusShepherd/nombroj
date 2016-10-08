@@ -1,0 +1,101 @@
+zero
+një
+dy
+tre
+katër
+pesë
+gjashtë
+shtatë
+tetë
+nëntë
+dhjetë
+njëmbëdhjetë
+dymbëdhjetë
+trembëdhjetë
+katërmbëdhjetë
+pesëmbëdhjetë
+gjashtëmbëdhjetë
+shtatëmbëdhjetë
+tetëmbëdhjetë
+nëntëmbëdhjetë
+njëzet
+njezet e nje
+njëzet e dy
+njëzet e tre
+njezet e kater
+njëzet e pesë
+njezet e gjashte
+njëzet e shtatë
+njëzet e tetë
+njëzet e nëntë
+tridhjetë
+tridhjetë e një
+tridhjete e dy
+tridhjetë e tre
+tridhjetë e katër
+tridhjetë e pesë
+tridhjetë e gjashtë
+tridhjetë e shtatë
+Tridhjetë e tetë
+tridhjetë e nëntë
+dyzetë
+Dyzet e një
+42
+dyzet e tre
+44
+dyzet e pesë
+dyzet e gjashtë
+Dyzeteshtatë
+dyzet e tetë
+dyzet e nente
+Pesëdhjetë
+Pesëdhjetë Një
+52
+pesedhjete e tre
+Pesëdhjetë e katër
+pesëdhjetëepesë
+Pesëdhjetë e gjashtë
+57
+58
+pesëdhjetë e nëntë
+gjashtëdhjetë
+Gjashtëdhjetë e një
+gjashtëdhjetë e dy
+gjashtedhjete e tre
+gjashtedhjete e kater
+gjashtëdhjetë e pesë
+gjashtëdhjetë e gjashtë
+gjashtedhjete e shtate
+gjashtëdhjetë e tetë
+69
+shtatedhjete
+shtatëdhjetë e një
+shtatëdhjetë e dy
+shtatedhjete e tre
+shtatëdhjetë e katër
+shtatedhjete e pese
+shtatëdhjetë e gjashtë
+shtatëdhjetë e shtatë
+shtatëdhjetë e tetë
+Shtatëdhjetë e nëntë
+tetëdhjetë
+81
+tetëdhjetë e dy
+tetëdhjetë e tre
+tetedhjete e kater
+tetëdhjetë e pesë
+tetëdhjetë e gjashtë
+tetedhjete e shtate
+88
+tetedhjete e nente
+nëntëdhjetë
+91
+nentedhjete e dy
+93
+nentedhjete e kater
+nentedhjete e pese
+nentedhjete e gjashte
+nentedhjete e shtate
+nëntëdhjetë e tetë
+nëntëdhjetë e nëntë
+njeqind

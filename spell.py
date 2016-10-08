@@ -28,9 +28,13 @@ for i, fragment in enumerate(fragments):
     exp += 3
     numbers[10**exp] = fragment + 'iardo'
 
-def eo(n, max_decimals=10):
+def eo(n, ordinal=False, max_decimals=10):
     if n < 0:
         return 'minus ' + eo(-n)
+
+    if ordinal:
+        result = eo(n, ordinal=False)
+        return result.replace(' ', '') + 'a'
 
     try:
         is_float = not n.is_integer()

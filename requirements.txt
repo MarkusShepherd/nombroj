@@ -1,2 +1,3 @@
--e git+https://git@github.com/MarkusShepherd/literumi.git@c4214d48cbc4ada8250f69acfc1a854f18a6109d#egg=literumi
+-e git+https://github.com/MarkusShepherd/literumi.git@c4214d48cbc4ada8250f69acfc1a854f18a6109d#egg=literumi
+-e git+https://github.com/savoirfairelinux/num2words.git@02bb4bcf135ec2910514bdb65982856652306914#egg=num2words
 requests==2.11.1

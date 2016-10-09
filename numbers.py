@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import print_function, unicode_literals
+from __future__ import absolute_import, print_function, unicode_literals
 
 import argparse
 import sys
 
-from num2words import num2words, CONVERTER_CLASSES
+from literumi import spell
+
 from translate import detect_languages, translate
 
 LANGUAGE_DESC = {
@@ -14,6 +15,7 @@ LANGUAGE_DESC = {
     'en': 'English',
     'en_GB': 'English (Great Britain)',
     'en_IN': 'English (India)',
+    'eo': 'Esperanto',
     'es': 'Spanish',
     'fr': 'French',
     'fr_CH': 'French (Switzerland)',
@@ -28,14 +30,15 @@ LANGUAGE_DESC = {
 
 def numbers(lang, start=0, end=100, chunk_size=None, google=None):
     if google:
-        return translate(numbers('en', start, end), source='en', target=lang, chunk_size=chunk_size)
+        return translate(numbers('en', start, end, google=False),
+                         source='en', target=lang, chunk_size=chunk_size)
 
     try:
-        num2words(0, lang=lang)
-        return (num2words(i, lang=lang) for i in range(start, end + 1))
+        spell(0, lang=lang)
+        return (spell(i, lang=lang) for i in range(start, end + 1))
     except:
         if google is None:
-            return numbers(lang, start, end, chunk_size, True)
+            return numbers(lang, start, end, chunk_size, google=True)
 
 def get_args():
     parser = argparse.ArgumentParser(description='Print numbers in a number of languages')
@@ -64,10 +67,11 @@ def main():
     args = get_args()
 
     if args.detect or args.detect_short:
-        languages = {key: LANGUAGE_DESC.get(key, str(value)) for key, value in CONVERTER_CLASSES.items()}
+        languages = LANGUAGE_DESC.copy()
         if not args.offline:
             try:
-                languages.update({language['language']: language['name'] for language in detect_languages('en')})
+                languages.update({language['language']: language['name']
+                                 for language in detect_languages('en')})
             except:
                 pass
         if args.detect_short:
@@ -83,7 +87,7 @@ def main():
         return
 
     translations = numbers(args.lang, args.start, args.end, args.chunk_size,
-        False if args.offline else True if args.google else None)
+                           False if args.offline else True if args.google else None)
 
     for t in translations:
         print(t)

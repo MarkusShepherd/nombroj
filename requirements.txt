@@ -1,3 +1,2 @@
+-e git+https://git@github.com/MarkusShepherd/literumi.git@c4214d48cbc4ada8250f69acfc1a854f18a6109d#egg=literumi
 requests==2.11.1
-git+https://github.com/savoirfairelinux/num2words.git
-neo4j-driver

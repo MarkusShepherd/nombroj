@@ -3,8 +3,9 @@
 from __future__ import print_function, unicode_literals
 
 import argparse
-import requests
 import sys
+
+import requests
 
 with open('.api_key') as file:
     API_KEY = file.read().strip()

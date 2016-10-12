@@ -1,0 +1,1001 @@
+nihil
+unum
+duo
+tribus
+quattuor
+quinque
+sex
+septem
+octo
+novem
+decem
+undecim
+duodecim
+tredecim
+quattuordecim
+quindecim
+sedecim
+decem et septem
+decem et octo
+novem
+viginti
+viginti unum
+vigintiduo
+viginti tres
+XXIV
+viginti quinque
+viginti sex
+viginti septem
+duodetriginta
+viginti novem
+triginta
+triginta unus
+triginta duo
+triginta tres
+triginta quattuor
+triginta quinque
+triginta sex
+triginta septem
+triginta octo
+triginta novem
+quadraginta
+quadraginta unum
+quadraginta duo
+quadraginta tres
+quadraginta quattuor
+quadraginta quinque
+quadraginta sex
+quadraginta septem
+quadraginta octo
+quadraginta novem
+quinquaginta
+quinquaginta unum
+quinquaginta duo
+quinquaginta tria
+quinquaginta quattuor
+et quinquaginta quinque
+quinquaginta sex
+quinquaginta septem
+quinquaginta octo
+quinquaginta novem
+sexaginta
+asini sexaginta unus:
+sexaginta duo
+sexaginta tres
+sexaginta quattuor
+sexaginta quinque
+sexaginta sex
+sexaginta septem
+sexaginta octo
+sexaginta novem
+septuaginta
+septuaginta unum
+septuaginta duo
+septuaginta trium
+septuaginta quattuor
+septuaginta quinque
+septuaginta sex
+septuaginta septem
+septuaginta octo
+septuaginta novem
+octoginta
+octoginta una
+octoginta duobus
+octoginta trium
+octoginta quattuor
+octoginta quinque
+Octoginta et sex
+octoginta septem
+octoginta octo
+octoginta et novem
+nonaginta
+nonaginta unum
+nonaginta duo
+nonaginta tres
+nonaginta quattuor
+nonaginta quinque
+arietes nonaginta sex
+nonaginta septem
+nonaginta et octo
+nonaginta novem
+centum
+centum et unus
+et unum centum
+et tres unum centum
+centum et quatuor
+et unum centum quinque
+sex et unum centum
+centum et septem
+centum et octo
+centum et novem
+centum et decem annorum
+centum et undecim
+centum duodecim
+centum et tredecim
+et unum centum quatuordecim
+et unum centum quindecim
+centum et sexdecim
+centum et decem et septem
+centum et decem
+centum decem et novem
+centum et viginti
+viginti et unum centum
+centum viginti duo
+centum et viginti tres
+qui centum et viginti quatuor
+qui centum et viginti quinque annis
+centum et viginti sex
+qui centum viginti septem annis
+centum viginti octo
+centum et viginti novem
+triginta et unum centum
+unum triginta et unum centum
+et unum centum triginta duo
+et unum centum triginta tres
+centum et triginta quattuor
+centum et triginta quinque
+et unum centum triginta sex
+et unum centum triginta septem
+et unum centum triginta octo
+et unum centum triginta novem
+centum et quadraginta
+centum et quadraginta uno
+centum et quadraginta duo
+centum et viginti tres
+et unum centum quadraginta quatuor
+centum et quadraginta quinque
+centum et quadraginta sex
+centum quadraginta septem annorum
+centum quadraginta octo
+centum et quadraginta novem
+centum quinquaginta
+et unum centum quinquaginta
+et unum centum quinquaginta duo
+ad centum quinquaginta milia et tria
+et centum quinquaginta quatuor
+centum et quinquaginta quinque
+et unum centum quinquaginta sex
+et unum centum quinquaginta septem
+centum quinquaginta octo
+et unum centum quinquaginta novem
+unum sexaginta et unum centum
+et unum sexaginta et unum centum
+centum et sexaginta duo
+centum et sexaginta tres
+centum et sexaginta quattuor
+unum sexaginta et unum centum quinque
+sexcenta sexaginta et unum centum
+centum et sexaginta septem
+octingenti sexaginta et unum centum
+et unum centum sexaginta novem
+septuaginta duo et unum centum
+centum septuaginta et unum
+et unum centum septuaginta duo
+centum et septuaginta trium
+et unum centum septuaginta quattuor
+centum et quinque et septuaginta
+centum et septuaginta sex
+centum et septuaginta septem;
+centum et septuaginta octo
+et unum centum septuaginta novem
+centum et octoginta
+centum et octoginta et unum
+centum octoginta duobus
+centum et octoginta trium
+centum et octoginta quattuor
+centum octoginta quinque
+centum octoginta sex
+centum octoginta septem
+centum et octoginta octo
+centum et octoginta et novem
+sexaginta et unum centum
+et unum sexaginta et unum centum
+centum et nonaginta duo
+tres centum et nonaginta
+et centum nonaginta quattuor
+centum et nonaginta quinque
+centum et nonaginta sex
+centum et nonaginta septem
+octingenti nonaginta unus
+et centum nonaginta novem
+ducenti
+centum et unus
+duo et duo
+duo et tres
+centum et quatuor
+quinque et ducenti
+duo et sex
+septem annis et ducentis
+ducenti octo
+centum et novem
+centum et decem annorum
+mille et ducenti
+ducenti duodecim
+centum et tredecim
+ducenta quattuordecim
+centum et quindecim
+centum et sexdecim
+centum et decem et septem
+ducenti decem et octo viri
+centum et novem
+centum viginti duo
+et unum centum viginti duo
+centum viginti duo
+centum et viginti tres
+ducenta viginti quattuor
+et ducentos viginti quinque
+centum et viginti sex
+centum viginti septem annis
+centum viginti octo
+centum et viginti novem
+et centum triginta duo
+et unum centum triginta duo
+et centum triginta duo
+ducenti et triginta tres
+ducenti et triginta quattuor
+centum et triginta quinque
+centum et triginta duo et sex
+et centum triginta septem
+et centum triginta octo
+et centum triginta novem
+ducenti et quadraginta
+ducenti et quadraginta uno
+ducenti et quadraginta duo
+ducentis quadraginta tribus
+centum et quadraginta quatuor:
+ducenti quadraginta quinque
+ducenti et quadraginta sex
+ducentis quadraginta septem annorum
+ducenti et quadraginta octo
+ducenti et quadraginta novem
+ducenta quinquaginta:
+ducenta et quinquaginta unus
+ducenti quinquaginta duo
+ducenta et quinquaginta tres
+ducenti quinquaginta quattuor
+ducenta et quinquaginta quinque
+ducenta et quinquaginta sex
+centum quinquaginta septem
+ducenti quinquaginta et octo
+ducenta et quinquaginta novem
+ducentis sexaginta
+sexaginta et unum centum
+centum et sexaginta duo
+et ducentas sexaginta tres
+ducenta et sexaginta quattuor
+ducenti sexaginta quinque
+ducenta et sexaginta sex
+ducenta et sexaginta septem
+ducentis sexaginta et octo
+duo et sexaginta anni et nongenti
+et centum septuaginta duo
+septuaginta duo et unum centum
+et centum septuaginta duo
+ducentorum septuaginta trium
+ducenta septuaginta quattuor
+centum et quinque et septuaginta
+ducentae septuaginta sex
+ducenta et septuaginta septem;
+ducenta septuaginta octo
+ducenta septuaginta novem
+centum et octoginta
+centum et octoginta et unum
+centum octoginta duobus
+centum et octoginta trium
+ducenti octoginta quattuor
+centum et octoginta quinque
+centum octoginta sex
+centum octoginta septem
+ducenti octoginta octo
+centum et octoginta et novem
+centum et nonaginta duo
+octingenti nonaginta unus
+ducenti et nonaginta duo
+octingenti nonaginta tres
+ducenti et nonaginta quattuor
+ducenti nonaginta
+centum et nonaginta sex
+centum et nonaginta septem
+ducenti nonaginta et octo
+ducenti nonaginta novem
+trecenta
+centum et unus
+centum et duos
+trecentis tribus
+tres et quatuor
+centum et quinque
+Sex et trecenti
+et septem tribus
+trecentos decem et octo
+centum et novem
+centum et decem annorum
+tres centum et mille
+centum duodecim
+et trecenti tredecim tres
+tres centum et mille
+centum et quindecim
+trecentos sex
+centum et decem et septem
+trecentos decem et octo:
+centum et novem
+centum et viginti tres
+et unum centum viginti tres
+trecenti viginti duo
+trecentis et viginti tribus
+trecenti viginti quatuor:
+centum et quinque et viginti tres
+centum et viginti sex
+trecentis et viginti septem
+centum viginti octo
+trecentis et viginti novem
+et centum triginta tres
+et unum centum triginta tres
+et centum triginta duo
+et centum triginta tres
+tres centum et triginta quattuor
+trecentos triginta quinque
+tres centum triginta sex
+trecenti triginta septem
+et centum triginta octo
+trecentorum et triginta novem
+tres centum quadraginta
+et unum centum quadraginta
+trecenta quadraginta duo
+centum et quadraginta tres
+tres centum et quadraginta quatuor:
+tres centum quadraginta quinque
+tres centum quadraginta quinque
+centum et quadraginta septem
+trecentos et quadraginta octo
+centum et quadraginta novem
+centum quinquaginta
+centum et quinquaginta
+trecentis quinquaginta duo
+centum quinquaginta tribus et tribus-
+et centum quinquaginta quatuor
+centum quinquaginta tribus et quinque
+tres centum quinquaginta sex
+trecenti quinquaginta septem
+trecentis quinquaginta et octo
+centum et quinquaginta novem
+trecentis sexaginta
+trecenti sexaginta
+centum et sexaginta duo
+trecentis et sexaginta tres
+trecentis et sexaginta quattuor
+trecentis et sexaginta quinque
+trecentis et sexaginta sex
+trecentis et sexaginta septem
+trecentos sexaginta octo
+trecentos sexaginta novem
+tribus et septuaginta viri
+tres centum septuaginta et unum
+tres centum septuaginta duo
+tribus et septuaginta trium
+trecenta septuaginta quattuor
+ter centum et quinque et septuaginta
+tribus et septuaginta sex
+tribus et septuaginta septem;
+trecentos decem et octo:
+tres centum septuaginta novem
+centum et octoginta
+centum et octoginta et unum
+centum octoginta duobus
+centum et octoginta trium
+centum et octoginta quatuor:
+centum et octoginta quinque
+centum octoginta sex
+centum octoginta septem
+centum et octoginta octo
+centum et octoginta et novem
+trecentis et nonaginta
+trecentis et nonaginta unum
+tres centum et nonaginta duo
+trecentis et nonaginta tres
+trecentis et nonaginta quattuor
+trecentis et nonaginta quinque
+tres centum et nonaginta sex
+tres centum et nonaginta septem
+trecentis et nonaginta et octo
+trecentis et nonaginta novem
+quadringentis
+centum et unus
+centum et duos
+et quattuor tres
+quatuor et quatuor
+quatuor quinque
+quattuor et sex
+quattuor centum et septem
+centum et octo
+centum et novem
+centum et decem annorum
+mille et quadringenti viri
+centum duodecim
+centum et tredecim
+et mille quadringenti
+centum et quindecim
+et sedecim annis quadringentis
+centum et decem et septem
+trecentis decem et octo;
+centum et novem
+centum et viginti
+et unum centum viginti
+centum viginti duo
+centum et viginti tres
+centum et viginti quatuor
+centum et viginti quinque annis
+centum et viginti sex
+centum viginti septem annis
+centum viginti octo
+trecentis et viginti novem
+et triginta quattuor
+quadringentos et triginta et unus
+quadringentos et triginta duos
+quadringentos et triginta tribus
+et post quadringentos et triginta quattuor
+quadringenti triginta quinque
+quadringentis triginta sex
+quadringentos et triginta septem
+et centum triginta octo
+quadringentis triginta et novem
+centum quadraginta et quatuor
+centum et quadraginta quatuor:
+centum quadraginta quatuor et duo:
+centum et viginti tres
+et centum et quadraginta quatuor:
+quattuor et quadraginta quinque
+quattuor et quadraginta sex
+centum quadraginta septem annorum
+centum quadraginta octo
+centum et quadraginta novem
+et centum quinquaginta quatuor
+et unum centum quinquaginta quatuor
+quadringentos et quinquaginta duobus
+quadringentos et quinquaginta tres
+quadringentos et quinquaginta quattuor
+quadringentos et quinquaginta quinque
+quadringentos et quinquaginta sex
+centum quinquaginta septem
+centum quinquaginta octo
+quadringentos et quinquaginta novem
+trecentis sexaginta
+sexaginta et unum centum
+quadringenti sexaginta duo
+centum et sexaginta tres
+quadringentis sexaginta quattuor
+trecentis et sexaginta quinque
+centum et sexaginta sex
+quadringentis sexaginta septem
+et quadringenti sexaginta octo viri
+quadringenta sexaginta novem
+et septuaginta et quadringenta:
+quadringentos septuaginta unum
+et centum septuaginta duo
+quattuor et septuaginta trium
+quadringenti septuaginta quattuor
+quadringenti septuaginta quinque
+quattuor et septuaginta sex
+centum et decem et septem
+centum septuaginta quattuor et octo
+quattuor et septuaginta novem
+centum et octoginta quatuor:
+et unum centum octoginta quattuor
+quadringenti octoginta duo
+quadringentos octoginta tres:
+quadringentos octoginta quattuor
+centum et octoginta quinque
+centum octoginta sex
+centum octoginta septem
+centum et octoginta octo
+centum et octoginta et novem
+trecentis et nonaginta
+trecentis et nonaginta unus
+trecentis et nonaginta duo
+trecentis et nonaginta tres
+trecentis et nonaginta quattuor
+trecentis et nonaginta quinque
+trecentis et nonaginta sex
+trecentis et nonaginta et septem
+trecentis et nonaginta et octo
+trecentis et nonaginta novem
+quingenti
+et unum centum quinque
+quinque centum et duo
+centum quinque et tres
+quingenta et quatuor
+quinque et mille quingenti
+quinque et sex
+quinque et septem
+centum quinque et octo
+quinque centum et novem
+centum decem et quinque
+et mille quingenti
+quinque et duodecim
+quinque et centum tredecim
+et mille quingenti
+et mille quingenti
+quinque centum et sexdecim
+et mille quingenti
+quinque et ducenti decem et octo
+centum et decem et quinque
+quinque et viginti
+qui centum et viginti quinque
+et quinque centum viginti duo
+quinque et viginti tres
+quinque et viginti quattuor
+quinque et viginti quinque
+quinque et viginti sex
+quinque et viginti septem
+quinque et viginti octo
+quinque et viginti novem
+quinque et triginta
+quinque et triginta et unum centum
+quinque et centum triginta duo
+quinque et triginta tribus
+quinque et triginta quattuor
+quinque et triginta quinque
+quinque et triginta sex
+et quinque centum triginta septem
+quinque et centum triginta octo
+quinque et centum triginta novem
+ducenti quadraginta quinque
+ducenti quadraginta quinque
+quinque et quadraginta duo
+et tres centum quadraginta quinque
+quinque et quadraginta quatuor:
+quinque et quadraginta quinque
+quinque et quadraginta sex
+quinque et ducenti quadraginta septem
+et quinque centum quadraginta octo
+quinque et quadraginta novem
+et quingentis quinquaginta
+quingentos et alius quinquaginta
+et quingentis quinquaginta duo
+centum quinquaginta tribus et quinque
+quinque et ducenti quinquaginta quattuor
+et quingentis quinquaginta quinque
+et quingentis quinquaginta sex
+et quingentis quinquaginta septem
+et quingentis quinquaginta octo
+et quingentis quinquaginta novem
+trecentos sexaginta quinque
+et quingentis asini sexaginta unus
+quinque et ducenti sexaginta duo
+quinque et sexaginta anni et trecenti
+quinque et sexaginta quattuor
+quinque et ducenti sexaginta quinque
+quinque et sexaginta sex
+quinque et sexaginta septem
+trecentos sexaginta quinque et octo
+quinque et centum sexaginta novem
+centum et quinque et septuaginta
+et unum centum septuaginta quinque
+quinque et centum septuaginta duo
+quinque et septuaginta trium
+centum et quinque et septuaginta quattuor
+centum et quinque et septuaginta quinque
+quinque et septuaginta sex
+centum et quinque cum septem et septuaginta
+centum septuaginta quinque et octo
+quinque et septuaginta novem
+et quingenti octoginta
+et quingenti octoginta
+quinque et centum octoginta duobus
+et quingenti octoginta trium
+quinque et ducenti octoginta quattuor
+quinque et centum octoginta quinque
+centum et octoginta quinque et sex
+quinque et centum octoginta septem
+quinque et ducenti octoginta octo
+centum et octoginta quinque et novem
+quinque et ducenti nonaginta
+quingentis nonaginta unus
+quingentis nonaginta duo
+quingentis nonaginta tres
+quingentis nonaginta quattuor
+quinque et nonaginta annis et quingentis
+et quinque arietes nonaginta sex
+quinque et nonaginta annis septem
+quingentis nonaginta et octo
+quingentis nonaginta et novem
+sescentorum
+centum et unus
+et sescentos
+sescenta tria
+sex et quatuor
+centum et quinque et sex
+centum et sex
+sex et septem
+centum et octo
+centum et novem
+centum et decem annorum
+sexcenta millia et mille
+centum duodecim
+et centum tredecim
+sexcenta millia et mille
+sexcenta millia et mille
+centum et sexdecim
+centum et decem et septem
+centum et decem et sex
+centum decem et novem
+centum et viginti
+sescenti viginti unus
+Sex et trecenti viginti
+centum et viginti tres
+centum et viginti quatuor
+centum et viginti quinque
+sex et viginti sex
+centum viginti septem annis
+centum viginti octo
+centum et viginti et novem
+sescenti triginta
+et unum centum triginta
+et centum triginta duo
+et centum triginta tres
+sex et triginta quattuor
+centum et triginta quinque
+sescenti triginta sex
+sexcenta millia et septingenti triginta
+et centum triginta octo
+et centum triginta novem
+centum et quadraginta
+centum et quadraginta uno
+sescenti quadraginta duo
+centum quadraginta tribus
+centum et quadraginta quatuor:
+centum et quadraginta quinque
+centum et quadraginta sex
+centum quadraginta septem annorum
+centum quadraginta octo
+centum quadraginta novem
+centum quinquaginta sex
+et unum centum quinquaginta sex
+sescenti quinquaginta duo
+centum quinquaginta milia et tria
+sexcenta quinquaginta quattuor
+centum et quinquaginta quinque
+centum quinquaginta sex
+centum quinquaginta septem
+sescenta quinquaginta et octo
+sescenta quinquaginta et novem
+sescenti sexaginta
+sexcenta sexaginta et unum centum
+sexcentorum sexaginta duo
+sexcentorum sexaginta tres
+sexcentorum sexaginta quattuor
+Sex et trecenti sexaginta quinque anni
+sexcentorum sexaginta sex
+sexcentorum sexaginta septem
+sescenti sexaginta octo
+sexcentorum sexaginta novem
+centum et septuaginta sex
+et unum centum septuaginta sex
+et centum septuaginta duo
+sexcenta septuaginta trium
+sexcenta septuaginta quattuor
+ovium sexcenta septuaginta quinque
+centum et septuaginta sex
+centum et decem et septem
+Sex et trecenti septuaginta octo
+et centum septuaginta novem
+centum octoginta sex
+et unum centum octoginta sex
+centum octoginta duobus
+centum octoginta sex et tria
+centum et octoginta quatuor:
+centum octoginta quinque
+centum octoginta sex
+centum octoginta septem
+centum et octoginta octo
+centum et octoginta et novem
+sescenti nonaginta
+sex et nonaginta unus
+Sex et trecenti nonaginta duo
+tres centum et nonaginta sex
+et quatuor sescenti nonaginta
+sex et nonaginta quinque
+centum et nonaginta sex
+centum et nonaginta septem
+sescenti nonaginta et octo
+sex et nonaginta novem
+septingenti
+centum et unus
+septem et duo
+septingenti et tria
+centum et quatuor
+centum et quinque
+septem sex
+septem et septem
+septem centum et octo
+centum et novem
+centum et decem et septem
+et mille septingenti
+et centum duodecim
+et decem et septem
+et mille septingenti
+centum et decem et septem
+et septingenti sedecim
+centum et decem et septem
+centum et decem et septem
+et decem et septem
+centum et viginti
+et septingenti viginti unus
+et septingenti viginti
+centum et viginti tres
+centum et viginti quatuor
+et septingenti viginti quinque
+centum et viginti sex
+centum viginti septem annis
+centum viginti octo
+centum et viginti novem
+et septingenti triginta
+septem et triginta et unum centum
+et septingenti triginta
+et septingenti triginta
+septem et triginta quattuor
+et septingenti triginta
+et septingenti triginta sex
+et septingentorum triginta septem
+septem et triginta et centum octo
+et centum triginta novem
+centum et quadraginta septem
+et unum centum quadraginta septem
+centum et quadraginta duo
+et septingenti quadraginta tres
+centum et quadraginta quatuor:
+ducenti quadraginta quinque
+et septingenti triginta sex
+centum quadraginta septem annorum
+centum et quadraginta octo
+centum et quadraginta novem
+et septingenti quinquaginta
+et unum centum quinquaginta septem
+ducenti quinquaginta duo
+centum quinquaginta milia et tria
+et centum quinquaginta quatuor
+et septingenti quinquaginta
+centum quinquaginta sex
+centum quinquaginta septem
+centum quinquaginta octo
+centum et quinquaginta novem
+et septingenti sexaginta
+et unum sexaginta et unum centum
+et septingenti sexaginta duo
+et septingenti sexaginta tres
+et septingenti sexaginta quattuor
+et septingenti sexaginta quinque
+et septingenti sexaginta sex
+et septingenti sexaginta septem
+et septingenti sexaginta octo
+et septingenti sexaginta novem
+septem et septuaginta anni
+et septingenti septuaginta unus
+et centum septuaginta duo
+septingentis et septuaginta trium
+et septingenti septuaginta quattuor
+septingentis et septuaginta quinque
+septingentis et septuaginta sex
+et septingenti septuaginta septem viros
+septingentis et septuaginta octo
+et septingentorum septuaginta novem
+centum octoginta septem
+et septingenti octoginta unus;
+septingentis octoginta duobus
+centum et octoginta trium
+ducenti octoginta quattuor
+centum et octoginta quinque
+centum octoginta sex
+centum octoginta septem
+ducenti octoginta octo
+centum et octoginta et novem
+centum et nonaginta septem
+septem et nonaginta unus
+centum et nonaginta duo
+septem et nonaginta tres
+et centum nonaginta quattuor
+septem et nonaginta quinque
+centum et nonaginta sex
+centum et nonaginta septem
+centum et nonaginta septem octo
+ducenti nonaginta novem
+octingenti
+centum et unus
+octo et duo
+centum et tria
+centum et quatuor
+centum quinque et octo
+centum et sex
+octingentis septem:
+octingenti decem et octo
+octo et novem:
+centum et decem annorum
+centum et undecim
+octingenti duodecim
+et octingenta tredecim
+et centum quatuordecim
+octingentis quindecim
+octingenti decem et sex
+centum et decem et septem
+octingenti decem et octo
+centum et novem
+centum viginti octo
+et unum centum viginti octo
+octingenti viginti duo
+centum et viginti tres
+octingenti viginti et quatuor
+octingenti viginti quinque
+centum viginti octo et sex
+octo et viginti septem
+centum viginti octo
+centum viginti octo novem
+et centum triginta octo
+octingenti triginta et unus
+octingenti triginta duo
+octingenti triginta tres
+centum et triginta quattuor
+octingenti triginta quinque
+octingenti triginta sex
+octingenti triginta septem
+et centum triginta octo
+octingenti triginta et novem
+centum quadraginta octo
+et unum centum quadraginta octo
+centum et quadraginta duo
+centum et viginti tres
+centum et quadraginta quatuor:
+octingenti quadraginta quinque:
+et sex centum quadraginta octo
+centum quadraginta septem annorum
+centum quadraginta octo
+centum et quadraginta novem
+centum quinquaginta
+octingenti quinquaginta unus
+octingenti quinquaginta duo
+octingenti quinquaginta tres
+octingenti quinquaginta quattuor
+octingenti quinquaginta quattuor
+octingenti quinquaginta sex
+octingenti quinquaginta septem
+centum quinquaginta octo
+octingenti quinquaginta novem
+centum et sexaginta
+octingenti sexaginta unus
+centum et sexaginta duo
+octingenti sexaginta tres
+octingenti sexaginta quattuor
+octingenti sexaginta quinque
+octingenti sexaginta sex
+octingenti sexaginta septem
+octingenti sexaginta octo
+octingenti sexaginta novem
+octingenti et septuaginta
+centum septuaginta et unum
+et centum septuaginta duo
+octingenti et septuaginta trium
+et centum septuaginta quattuor
+centum et quinque et septuaginta
+octingenti et septuaginta sex
+octingenti et septuaginta septem;
+octingenti decem et octo
+et centum septuaginta novem
+centum octoginta octo
+octingenti octoginta unus
+centum octoginta duobus
+centum et octoginta trium
+centum et octoginta quatuor:
+centum et octoginta quinque
+centum octoginta sex
+centum octoginta septem
+centum et octoginta octo
+centum et octoginta et novem
+octingenti nonaginta
+octingenti nonaginta unus
+centum et nonaginta duo
+octingenti nonaginta tres
+octingenti quinquaginta quattuor
+octingenti nonaginta quinque
+centum et nonaginta sex
+centum et nonaginta septem
+octingenti nonaginta et octo
+octingenti nonaginta et novem
+nongentorum
+centum et unus
+centum et duos
+tres centum et novem
+centum et quatuor
+nongentorum quinque
+centum et sex
+centum et septem
+centum et novem octo
+centum et novem
+centum et decem annorum
+undecim centum et novem
+novem et duodecim
+centum decem et novem
+centum et mille
+centum decem et novem
+centum et sedecim
+centum et decem et septem
+centum decem et novem
+centum et novem
+centum et viginti
+et unum centum viginti
+centum viginti duo
+centum et viginti tres
+nongenti viginti et quatuor
+nongenti viginti quinque
+centum et viginti sex
+centum viginti septem annis
+nongenti viginti octo
+centum et viginti et novem
+anni nongenti triginta
+nongenti triginta et unus
+et centum triginta duo
+et centum triginta tres
+centum et triginta quattuor
+et quinque anni nongenti triginta
+nongenti triginta sex
+et centum triginta septem
+nongenti triginta et octo
+nongenti triginta et novem
+ducenti et quadraginta novem
+novem et quadraginta uno
+novem et quadraginta duo
+novem et quadraginta tribus
+centum et quadraginta quatuor:
+novem et quadraginta quinque
+novem et quadraginta sex
+centum quadraginta septem annorum
+centum quadraginta octo
+novem et quadraginta novem
+centum et quinquaginta novem
+centum et quinquaginta
+nongentorum quinquaginta duo
+centum quinquaginta tribus
+nongentos quinquaginta quattuor
+nongenti quinquaginta quinque
+et nongenti quinquaginta sex
+centum quinquaginta septem
+centum quinquaginta octo
+nongentorum quinquaginta novem
+centum et sexaginta
+et unum sexaginta et unum centum
+et centum sexaginta duobus annis
+novem et sexaginta anni et trecenti
+nongenti sexaginta quattuor
+et sexaginta et nongentorum quinque
+et nongenti sexaginta sex
+nongentarum sexaginta septem
+et nongenti sexaginta octo
+et nongenti sexaginta novem
+et centum septuaginta novem
+et unum centum septuaginta novem
+et centum septuaginta duo
+et nongenti septuaginta tres
+et centum septuaginta quattuor
+centum et quinque et septuaginta
+centum et septuaginta sex
+centum et septuaginta septem;
+et centum septuaginta novem octo
+et centum septuaginta novem
+centum et octoginta
+et unum centum octoginta
+centum octoginta duobus
+centum et octoginta trium
+ducenti octoginta quattuor
+centum et octoginta quinque
+centum octoginta sex
+centum octoginta septem
+centum et octoginta octo
+centum et octoginta et novem
+nonaginta novem
+nonaginta novem et unum centum
+centum et nonaginta duo
+tres centum et nonaginta
+et centum nonaginta quattuor
+centum et nonaginta quinque
+centum et nonaginta sex
+centum et nonaginta septem
+nonaginta novem decem et octo
+et centum nonaginta novem
+milia

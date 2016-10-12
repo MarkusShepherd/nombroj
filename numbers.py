@@ -34,11 +34,13 @@ def numbers(lang, start=0, end=100, chunk_size=None, google=None):
                          source='en', target=lang, chunk_size=chunk_size)
 
     try:
-        spell(0, lang=lang)
+        spell(1, lang=lang)
         return (spell(i, lang=lang) for i in range(start, end + 1))
     except:
         if google is None:
             return numbers(lang, start, end, chunk_size, google=True)
+        else:
+            raise
 
 def get_args():
     parser = argparse.ArgumentParser(description='Print numbers in a number of languages')

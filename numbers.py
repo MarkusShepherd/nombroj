@@ -10,6 +10,7 @@ from literumi import spell
 from translate import detect_languages, translate
 
 LANGUAGE_DESC = {
+    'binary': 'Binary',
     'de': 'German',
     'dk': 'Danish (Denmark)',
     'en': 'English',
@@ -25,6 +26,7 @@ LANGUAGE_DESC = {
     'no': 'Norwegian',
     'pl': 'Polish',
     'pt_BR': 'Portuguese (Brazil)',
+    'roman': 'Roman numerals',
     'ru': 'Russian',
 }
 

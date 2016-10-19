@@ -1,4 +1,4 @@
--e git+https://github.com/MarkusShepherd/literumi@f4a26c5bebce63298c29d0db33b11de4323f4537#egg=literumi
--e git+https://github.com/savoirfairelinux/num2words@02bb4bcf135ec2910514bdb65982856652306914#egg=num2words
+-e git+https://github.com/MarkusShepherd/literumi@3503a46305ff9f0456d8b10c99ec77764c48f73a#egg=literumi
+-e git+https://github.com/savoirfairelinux/num2words@0e06eb81dde3ccb4a5f35d6eaf08a4c10d1130a8#egg=num2words
 requests==2.11.1
 roman==2.0.0
